@@ -7,7 +7,7 @@
 --     FROM countrylanguage 
 --     LIMIT 10;
 
-SELECT * 
+SELECT *
     FROM city
     LIMIT 10;
 
